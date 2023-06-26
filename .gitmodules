@@ -1,0 +1,3 @@
+[submodule "medu"]
+	path = medu
+	url = https://github.com/almirarustamova/medu.git
